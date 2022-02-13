@@ -2,13 +2,19 @@
 Practice-Repository
 
 
-## HTML, CSS, Javascript
+
+
+
+### HTML, CSS, Javascript
  
 -폰트, 파일분리
 -posting-box
 -메인 페이지 제작
 
-## JQuery, Ajax
+
+
+
+### JQuery, Ajax
 
   <연습>  
     -서울시 OpenAPI 
@@ -17,14 +23,20 @@ Practice-Repository
     -날씨 API
     -로딩/ 호출
 
-## OpenAPI, Python, crawling, mongoDB
+
+
+
+### OpenAPI, Python, crawling, mongoDB
 
 -gitbash
 -Movie page
 -crawling기본 세팅
 -pymongo
 
-## Flask, project setting
+
+
+
+### Flask, project setting
 
 -Flask, 서버 + HTML 
 -Jquery import
@@ -34,7 +46,10 @@ Practice-Repository
 
 -project setting
 
-## AWS
+
+
+
+### AWS
 
 -서버 세팅
 -Flask 서버 실행
