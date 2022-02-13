@@ -7,9 +7,9 @@ Practice-Repository
 
 ### HTML, CSS, Javascript
  
--폰트, 파일분리
--posting-box
--메인 페이지 제작
+ -폰트, 파일분리
+ -posting-box
+ -메인 페이지 제작
 
 
 
@@ -28,31 +28,31 @@ Practice-Repository
 
 ### OpenAPI, Python, crawling, mongoDB
 
--gitbash
--Movie page
--crawling기본 세팅
--pymongo
+ -gitbash
+ -Movie page
+ -crawling기본 세팅
+ -pymongo
 
 
 
 
 ### Flask, project setting
 
--Flask, 서버 + HTML 
--Jquery import
+ -Flask, 서버 + HTML 
+ -Jquery import
 
-  -get요청 API > 확인 Ajax
-    -post요청 API > 확인 Ajax
+   -get요청 API > 확인 Ajax
+     -post요청 API > 확인 Ajax
 
--project setting
+ -project setting
 
 
 
 
 ### AWS
 
--서버 세팅
--Flask 서버 실행
--nohup 설정
--도메인 연결
--배포
+ -서버 세팅
+ -Flask 서버 실행
+ -nohup 설정
+ -도메인 연결
+ -배포
