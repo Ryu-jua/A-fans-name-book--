@@ -2,6 +2,7 @@
 Practice-Repository  
 
 영화 리뷰 웹사이트의 코드가 담긴 미완성 프로젝트입니다.
+
 ### 주요기능  
   <prac>  
  
@@ -11,8 +12,11 @@ Practice-Repository
  
     - 코멘트 작성  
  
-    - 포스터, 제목, 내용, 별점, 코멘트 한 눈에 정리
+    - 포스터, 제목, 내용, 별점, 코멘트 한 눈에 파악  
+  
+    - 우선순위 부여  
  
+  
       
 <br/><br/>
 > HTML, CSS, Javascript  
